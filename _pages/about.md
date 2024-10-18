@@ -11,6 +11,7 @@ Dr Yan is a Senior Member of the Institute of Electrical and Electronics Enginee
 
 Research
 ======
+
 Research Expertise
 ------
 -	Power electronics and control
