@@ -29,7 +29,7 @@ Editorial Roles
 
 Professional Activities
 ------
--	Senior Member IEEE
+-	Senior Member Institute of Electrical and Electronics Engineers (IEEE)
 -	Member of the Hong Kong Institute of Engineers
 -	Technical Program Committee (TPC) member of five international conferences, including the top conference in the field – IEEE PELS. 
 -	Session Chairs of prestigious international conferences.
