@@ -53,3 +53,18 @@ Collaborators (International)
 -	Prof Jose Rodriguez (IEEE Life Fellow), Universidad San Sebastian, Chile
 -	Prof Yongheng Yang, Zhejiang University, China
 -	A/Prof Qingsong Wang, Southeast University, China
+
+
+Teaching
+======
+
+Program Management
+------
+-	the Bachelor of Engineering (Electrical Engineering) (Honours) in Hong Kong
+
+
+Course Coordination
+------
+-	EEET2450: Research Methods for Engineers
+-	EEET2611: Engineering Design 3
+-	OENG1170/1170: Engineering Capstone Project Part A/B
