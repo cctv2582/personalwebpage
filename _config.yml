@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ir Dr Shuo YAN"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Lecturer and a Program Manager at RMIT University. I have conducted years of research in smart load modelling and control, advanced control and its application, and cyber security of power electronic systems and microgrids. I welcome PhD candidates and research fellows working in the relevant areas to join the team. I am also the program manager of the Bachelor of Engineering (Electrical Engineering) (Honours) in Hong Kong."
-  location         : "Melbourne/Victoria/Australia"
-  employer         : "RMIT University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "shuo.yan@rmit.edu.au" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.au/citations?user=WHmJrWUAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0413-7007"
-   # semantic         : # URL
-   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
