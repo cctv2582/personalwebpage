@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shuo Yan_1.jpg"
+  avatar           : "ProfilePic_1.jpg"
   name             : "Shuo YAN"
   pronouns         : # example: "she/her"  
   bio              : "I am a Lecturer and a Program Manager at RMIT University. I have conducted years of research in smart load modelling and control, advanced control and its application, and cyber security of power electronic systems and microgrids. I welcome PhD candidates and research fellows working in the relevant areas to join the team. I am also the program manager of the Bachelor of Engineering (Electrical Engineering) (Honours) in Hong Kong."
