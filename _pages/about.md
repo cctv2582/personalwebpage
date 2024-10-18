@@ -11,7 +11,6 @@ Dr Yan is a Senior Member of the Institute of Electrical and Electronics Enginee
 
 Research
 ======
-
 Research Expertise
 ------
 -	Power electronics and control
@@ -26,7 +25,6 @@ Editorial Roles
 -	Associate Editor – Advances in Electrical Engineering, Electronics, and Energy (Q1).
 -	Guest Editor – Energies (Q1).
 
-
 Professional Activities
 ------
 -	Senior Member Institute of Electrical and Electronics Engineers (IEEE)
@@ -34,16 +32,13 @@ Professional Activities
 -	Technical Program Committee (TPC) member of five international conferences, including the top conference in the field – IEEE PELS. 
 -	Session Chairs of prestigious international conferences.
 
-
 Reviewer for International Journals and Conferences
 ------
 IEEE Transactions on Power Electronics, IEEE Journal of Emerging and Selected Topics Power Electronics, IEEE Transactions on Industrial Electronics, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE Transactions on Energy Conversion, IEEE Transactions on Smart Grids, CSEE Journal of Power and Energy Systems, IEEE Transactions on Industry Applications, IEEE ACCESS, and International Journal of Electrical Power & Energy Systems, and International Journal of Power Electronics. Reviewer for prestige international conferences (ECCE, APEC, PEDG, SPEC) 
 
-
 Reviewer for Competitive Research Funding
 ------
 -	External Grant Reviewer of Qatar University
-
 
 Collaborators (International)
 ------
@@ -53,16 +48,13 @@ Collaborators (International)
 -	Prof Jose Rodriguez (IEEE Life Fellow), Universidad San Sebastian, Chile
 -	Prof Yongheng Yang, Zhejiang University, China
 -	A/Prof Qingsong Wang, Southeast University, China
- 
 
   
 Teaching
 ======
-
 Program Management
 ------
 -	the Bachelor of Engineering (Electrical Engineering) (Honours) in Hong Kong
-
 
 Course Coordination
 ------
